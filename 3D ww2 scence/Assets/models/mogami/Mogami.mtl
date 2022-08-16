@@ -1,0 +1,570 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl JM124_Signal_Lamp_2_411
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm124_signal_lamp_2_a.jpg
+map_Ks textures/jm124_signal_lamp_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM310_Chrysanthemum_full_431
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm310_chrysanthemum_full_a.jpg
+map_Ks textures/jm310_chrysanthemum_full_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM061_Deck_Hatch_10_477
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm061_deck_hatch_10_a.jpg
+map_Ks textures/jm061_deck_hatch_10_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM035_Dinghy_6m_512
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm035_dinghy_6m_a.jpg
+map_Ks textures/jm035_dinghy_6m_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM055_Deck_Hatch_4_525
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm055_deck_hatch_4_a.jpg
+map_Ks textures/jm055_deck_hatch_4_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM030_Wind_detection_542
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm030_wind_detection_a.jpg
+map_Ks textures/jm030_wind_detection_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM092_Running_Lights_R_552
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm092_running_lights_r_a.jpg
+map_Ks textures/jm092_running_lights_r_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM037_Cutter_9m_594
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm037_cutter_9m_a.jpg
+map_Ks textures/jm037_cutter_9m_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM111_Deck_Hatch_13_639
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm111_deck_hatch_13_a.jpg
+map_Ks textures/jm111_deck_hatch_13_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM013_Reels_1_686
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm013_reels_1_a.jpg
+map_Ks textures/jm013_reels_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM021_Accommodation_Ladder_721
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm021_accommodation_ladder_a.jpg
+map_Ks textures/cm021_accommodation_ladder_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM063_Sky_Light_726
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm063_sky_light_a.jpg
+map_Ks textures/jm063_sky_light_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM059_Deck_Hatch_8_730
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm059_deck_hatch_8_a.jpg
+map_Ks textures/jm059_deck_hatch_8_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM004_Barbette_Out_736
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm004_barbette_out_a.jpg
+map_Ks textures/cm004_barbette_out_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM101_Runway_Lights_1L_759
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm101_runway_lights_1l_a.jpg
+map_Ks textures/jm101_runway_lights_1l_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM001_Propeller_764
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm001_propeller_a.jpg
+map_Ks textures/cm001_propeller_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM170_Crane_779
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm170_crane_a.jpg
+map_Ks textures/jm170_crane_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM044_After_Capstan_801
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm044_after_capstan_a.jpg
+map_Ks textures/jm044_after_capstan_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM029_Leadsman_Platform_818
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm029_leadsman_platform_a.jpg
+map_Ks textures/jm029_leadsman_platform_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM368_Life_Buoy_826
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm368_life_buoy_a.jpg
+map_Ks textures/jm368_life_buoy_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM033_Roller_Fairled_831
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm033_roller_fairled_a.jpg
+map_Ks textures/jm033_roller_fairled_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JC001_Catapult_Shiki2_skinned_945
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jc001_catapult_shiki2_a.jpg
+map_Ks textures/jc001_catapult_shiki2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JC001_Catapult_Cradle_skinned_945
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jc001_catapult_cradle_a.jpg
+map_Ks textures/default_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGA010_25mm_Type96_3
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jga010_25mm_type96_a.jpg
+map_Ks textures/jga010_25mm_type96_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGA018_25mm_Type96_single_33
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jga018_25mm_type96_single_a.jpg
+map_Ks textures/jga018_25mm_type96_single_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGA019_Type96_double_66
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jga019_type96_double_a.jpg
+map_Ks textures/jga019_type96_double_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGM024_203mm50_Type_E_RF_skinned_586
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jgm024_203mm50_type_e_rf_a.jpg
+map_Ks textures/jgm024_203mm50_type_e_rf_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM026_Bollards_622
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm026_bollards_a.jpg
+map_Ks textures/jm026_bollards_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGM024_203mm50_Type_E_RF_skinned_672
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jgm024_203mm50_type_e_rf_a.jpg
+map_Ks textures/jgm024_203mm50_type_e_rf_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM118_Coaming_Stay_2_680
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm118_coaming_stay_2_a.jpg
+map_Ks textures/jm118_coaming_stay_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGS009_127mm40_Type_89_skinned_729
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jgs009_127mm40_type_89_a.jpg
+map_Ks textures/jgs009_127mm40_type_89_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGS042_127mm40_Type89_3_skinned_729
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jgs042_127mm40_type89_3_a.jpg
+map_Ks textures/jgs042_127mm40_type89_3_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JD036_Director_Type_95_Mod3_763
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jd036_director_type_95_mod3_a.jpg
+map_Ks textures/jd036_director_type_95_mod3_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JD022_Director_Type_95_Mod1_763
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jd022_director_type_95_mod1_a.jpg
+map_Ks textures/jd022_director_type_95_mod1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JD008_Director_Type_91_773
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jd008_director_type_91_a.jpg
+map_Ks textures/jd008_director_type_91_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JF012_Rangefinder_1_5m_Fuso_808
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jf012_rangefinder_1_5m_fuso_a.jpg
+map_Ks textures/jf012_rangefinder_1_5m_fuso_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JRS044_Radar_Type_A6_skinned_911
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jrs044_radar_type_a6_a.jpg
+map_Ks textures/jrs044_radar_type_a6_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM067_Radar_21_Stand_1_skinned_923
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm067_radar_21_stand_1_a.jpg
+map_Ks textures/jm067_radar_21_stand_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl C010_Grid_8_alpha_skinned_923
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/c010_grid_8_alpha_a.jpg
+
+newmtl JRS002_Radar_Type_21_2_skinned_923
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jrs002_radar_type_21_2_a.jpg
+map_Ks textures/jrs002_radar_type_21_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JRS010_Radar_Type_13_skinned_950
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jrs010_radar_type_13_a.jpg
+map_Ks textures/jrs010_radar_type_13_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JGT017_610mm4_Type_93_981
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jgt017_610mm4_type_93_a.jpg
+map_Ks textures/jgt017_610mm4_type_93_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM110_Deck_Hatch_12_101
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm110_deck_hatch_12_a.jpg
+map_Ks textures/jm110_deck_hatch_12_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM017_Ventilators_1_105
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm017_ventilators_1_a.jpg
+map_Ks textures/jm017_ventilators_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM005_Anchor_1_111
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm005_anchor_1_a.jpg
+map_Ks textures/cm005_anchor_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM018_Ventilators_2_114
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm018_ventilators_2_a.jpg
+map_Ks textures/jm018_ventilators_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM009_Signal_Lamp_155
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm009_signal_lamp_a.jpg
+map_Ks textures/jm009_signal_lamp_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM010_Fire_Hose_Reel_178
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm010_fire_hose_reel_a.jpg
+map_Ks textures/cm010_fire_hose_reel_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM107_Binocular_186
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm107_binocular_a.jpg
+map_Ks textures/jm107_binocular_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM113_Flag_Box_203
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm113_flag_box_a.jpg
+map_Ks textures/jm113_flag_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM058_Deck_Hatch_7_222
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm058_deck_hatch_7_a.jpg
+map_Ks textures/jm058_deck_hatch_7_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM008_Life_Buoy_1_226
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm008_life_buoy_1_a.jpg
+map_Ks textures/cm008_life_buoy_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM004_Searchlight_Control_2_230
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm004_searchlight_control_2_a.jpg
+map_Ks textures/jm004_searchlight_control_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM062_Deck_Hatch_11_236
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm062_deck_hatch_11_a.jpg
+map_Ks textures/jm062_deck_hatch_11_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM032_Electric_Deck_Winch_242
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm032_electric_deck_winch_a.jpg
+map_Ks textures/jm032_electric_deck_winch_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM145_Lookout_254
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm145_lookout_a.jpg
+map_Ks textures/jm145_lookout_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM008_Searchlight_277
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm008_searchlight_a.jpg
+map_Ks textures/jm008_searchlight_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM050_Davit_Out_L_284
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm050_davit_out_l_a.jpg
+map_Ks textures/jm050_davit_out_l_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM002_Paravane_305
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm002_paravane_a.jpg
+map_Ks textures/jm002_paravane_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM016_Boat_Stowage_2_320
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm016_boat_stowage_2_a.jpg
+map_Ks textures/cm016_boat_stowage_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM082_Gun_Deck_2_326
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm082_gun_deck_2_a.jpg
+map_Ks textures/jm082_gun_deck_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JSC010_Mogami_1944_Hull_394
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jsc010_mogami_1944_hull_a.jpg
+map_Ks textures/jsc010_mogami_1944_hull_mg.jpg
+map_Ao textures/jsc010_mogami_1944_hull_ao.jpg
+
+newmtl JSC010_Mogami_1944_Bulbous_394
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jsc010_mogami_1944_bulbous_a.jpg
+map_Ks textures/jsc010_mogami_1944_bulbous_mg.jpg
+map_Ao textures/jsc010_mogami_1944_bulbous_ao.jpg
+
+newmtl JSC010_Mogami_1944_Hull_wire_395
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jsc010_mogami_1944_hull_a.jpg
+map_Ks textures/jsc010_mogami_1944_hull_mg.jpg
+
+newmtl JSC010_Mogami_1944_Deck_House_510
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jsc010_mogami_1944_deck_house_a.jpg
+map_Ks textures/jsc010_mogami_1944_deck_house_mg.jpg
+map_Ao textures/jsc010_mogami_1944_deck_house_ao.jpg
+
+newmtl JM219_Barbette_TA_551
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm219_barbette_ta_a.jpg
+map_Ks textures/jm219_barbette_ta_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM039_Cutter_12m_707
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm039_cutter_12m_a.jpg
+map_Ks textures/jm039_cutter_12m_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JM041_Motor_Boats_15m_778
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jm041_motor_boats_15m_a.jpg
+map_Ks textures/jm041_motor_boats_15m_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM022_Anchor_3_857
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm022_anchor_3_a.jpg
+map_Ks textures/cm022_anchor_3_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JF035_Rangefinder_6m_56
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jf035_rangefinder_6m_a.jpg
+map_Ks textures/jf035_rangefinder_6m_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl JF024_Rangefinder_3_5m_Mod2_76
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/jf024_rangefinder_3_5m_mod2_a.jpg
+map_Ks textures/jf024_rangefinder_3_5m_mod2_mg.jpg
+map_Ao textures/default_ao.jpg
+

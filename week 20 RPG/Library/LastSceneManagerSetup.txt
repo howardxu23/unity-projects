@@ -1,0 +1,6 @@
+sceneSetups:
+- path: F:/school/uni coursework/incomplete/3CWK40_howard game fundemental/3D ww2
+    scence/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

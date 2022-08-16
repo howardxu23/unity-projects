@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: ca8cd08151d13864ea6708e499dfd99f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3727110798251800968
+    second: star punch explosion_1
+  - first:
+      213: 6174427953900542376
+    second: star punch explosion_0
+  - first:
+      213: -7724485561379719729
+    second: star punch explosion_2
+  - first:
+      213: -3323661774480121597
+    second: star punch explosion_3
+  - first:
+      213: 2577091481052123587
+    second: star punch explosion_4
+  - first:
+      213: -6319375388188128023
+    second: star punch explosion_5
+  - first:
+      213: 8459428074305868388
+    second: star punch explosion_6
+  - first:
+      213: 7285781661195199372
+    second: star punch explosion_7
+  - first:
+      213: 6025722565148033228
+    second: star punch explosion_8
+  - first:
+      213: 7244211131354791161
+    second: star punch explosion_9
+  - first:
+      213: -5595017295337659532
+    second: star punch explosion_10
+  - first:
+      213: -7714631234829123174
+    second: star punch explosion_11
+  - first:
+      213: 8095688390233132050
+    second: star punch explosion_12
+  - first:
+      213: 5917903860939699424
+    second: star punch explosion_13
+  - first:
+      213: 9024327070039889442
+    second: star punch explosion_14
+  - first:
+      213: -1986459393281833284
+    second: star punch explosion_15
+  - first:
+      213: -6088645284449467462
+    second: star punch explosion_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star punch explosion_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 830
+        width: 132
+        height: 101
+      alignment: 9
+      pivot: {x: 0.46152034, y: 0.5754364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795b7ca163965e448bed50f4ced320a
+      internalID: 3727110798251800968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 856
+        width: 64
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52642775, y: 0.46617186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c92249c3bd6db34b914aaed24f6a4b8
+      internalID: 6174427953900542376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 830
+        width: 164
+        height: 158
+      alignment: 9
+      pivot: {x: 0.56194437, y: 0.35533586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d934f904b0dc642b81e987e0675cee
+      internalID: -7724485561379719729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_3
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 824
+        width: 162
+        height: 196
+      alignment: 9
+      pivot: {x: 0.4895596, y: 0.34466833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874fa1ef2f87bbf428a8b326141dcf63
+      internalID: -3323661774480121597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_4
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 815
+        width: 159
+        height: 209
+      alignment: 9
+      pivot: {x: 0.48402837, y: 0.37555748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c2af1ef7eff334bb6e07ad82f25fb1
+      internalID: 2577091481052123587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 808
+        width: 168
+        height: 215
+      alignment: 9
+      pivot: {x: 0.52013576, y: 0.4291978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce44354d6562a42b725d41e0230aef
+      internalID: -6319375388188128023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 822
+        width: 162
+        height: 202
+      alignment: 9
+      pivot: {x: 0.51044077, y: 0.39952162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da8838b0dc0ef46b058d7fa6d8120e
+      internalID: 8459428074305868388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_7
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 820
+        width: 171
+        height: 198
+      alignment: 9
+      pivot: {x: 0.49937108, y: 0.43329537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b6336cdde31214583d1b2b09cbd1ef
+      internalID: 7285781661195199372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_8
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 818
+        width: 176
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4897787, y: 0.4230007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c992ccde593d15469aa66f894091ce4
+      internalID: 6025722565148033228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 566
+        width: 179
+        height: 187
+      alignment: 9
+      pivot: {x: 0.53313595, y: 0.4558213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732013e5124b6fd4198e464c14647682
+      internalID: 7244211131354791161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_10
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 578
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c59bff4e89c1f443b241000144e7609
+      internalID: -5595017295337659532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 594
+        width: 165
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be25a29bb2ff1544a2ac074b9b914d7
+      internalID: -7714631234829123174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_12
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 606
+        width: 156
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc5563b72b8dc34c9d155c93d5e648c
+      internalID: 8095688390233132050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_13
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 625
+        width: 151
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debb310b549d545469a295bc95047b28
+      internalID: 5917903860939699424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_14
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 653
+        width: 103
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c6dcc1bcaab8944a7f7aadbeafe99f
+      internalID: 9024327070039889442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_15
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 651
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec520772335cb346a27e1e547eb22fe
+      internalID: -1986459393281833284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star punch explosion_16
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 263
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be7e94798074e4498046385ad466ce
+      internalID: -6088645284449467462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

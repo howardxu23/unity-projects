@@ -1,0 +1,1012 @@
+fileFormatVersion: 2
+guid: bc27ab12aeaff5c439f27eec3429ba4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2459195439921730563
+    second: barroth 2_0
+  - first:
+      213: 3330295987800513182
+    second: barroth 2_1
+  - first:
+      213: 5076254416544272524
+    second: barroth 2_2
+  - first:
+      213: -3018832437164593638
+    second: barroth idle2
+  - first:
+      213: -2724866388637731108
+    second: barroth 2_4
+  - first:
+      213: -1902707077523131623
+    second: barroth 2_5
+  - first:
+      213: 4114114917738254426
+    second: barroth 2_6
+  - first:
+      213: 8161052184752038547
+    second: barroth 2_7
+  - first:
+      213: -1529843611281792339
+    second: barroth 2_8
+  - first:
+      213: 4147464224925037649
+    second: barroth 2_9
+  - first:
+      213: -2465114502975377083
+    second: barroth 2_10
+  - first:
+      213: -8967672780463984993
+    second: barroth 2_11
+  - first:
+      213: 6370251191640309102
+    second: barroth 2_12
+  - first:
+      213: -5258087400562214640
+    second: barroth 2_13
+  - first:
+      213: 2250687283283899516
+    second: barroth 2_14
+  - first:
+      213: 8608662240493644076
+    second: barroth 2_15
+  - first:
+      213: -2808458495565687064
+    second: barroth 2_16
+  - first:
+      213: -3382333612423492883
+    second: barroth 2_17
+  - first:
+      213: -34440249018038882
+    second: barroth 2_18
+  - first:
+      213: -7676234883483861749
+    second: barroth 2_19
+  - first:
+      213: -8684029647162981176
+    second: barroth 2_20
+  - first:
+      213: -5032478555162142758
+    second: barroth 2_21
+  - first:
+      213: 2509475306144723766
+    second: barroth 2_22
+  - first:
+      213: -3757914667929062073
+    second: barroth 2_23
+  - first:
+      213: 8309882354638721337
+    second: barroth 2_24
+  - first:
+      213: -7667136452318654167
+    second: barroth 2_25
+  - first:
+      213: -1247549482755787862
+    second: barroth 2_26
+  - first:
+      213: -5819451545037184686
+    second: barroth 2_27
+  - first:
+      213: 6355899215881935538
+    second: barroth 2_28
+  - first:
+      213: -4699734094268723960
+    second: barroth 2_29
+  - first:
+      213: -467879765341026250
+    second: barroth 2_30
+  - first:
+      213: -579778789107931854
+    second: barroth 2_31
+  - first:
+      213: 6018019460368007814
+    second: barroth 2_32
+  - first:
+      213: -8269480554852020623
+    second: barroth 2_33
+  - first:
+      213: -9152302928332165747
+    second: barroth 2_34
+  - first:
+      213: -1773341224481588530
+    second: barroth 2_35
+  - first:
+      213: 6748996502225902696
+    second: barroth 2_36
+  - first:
+      213: 8288821619589280210
+    second: barroth 2_37
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barroth 2_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1766
+        width: 217
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847620b9c441454f86dcfc63293b29f
+      internalID: 2459195439921730563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1766
+        width: 217
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7981dd1b5c3494a48931648ab118e23f
+      internalID: 3330295987800513182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1778
+        width: 201
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071b785866075cb4ab4d2f888799f146
+      internalID: 5076254416544272524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_5
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1766
+        width: 217
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98a876273cc68f42b2ab38f94553f55
+      internalID: -1902707077523131623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1778
+        width: 201
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88937bfa1ae7cb479d5c9e8ac601065
+      internalID: 4114114917738254426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_7
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 1778
+        width: 202
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4c9ba3618a45841be58be01178f531
+      internalID: 8161052184752038547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_8
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1775
+        width: 206
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08864e1ef4b78c4c935964332665bb6
+      internalID: -1529843611281792339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_9
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1775
+        width: 206
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b27574ce7223f64b9deac30ac7ae350
+      internalID: 4147464224925037649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1479
+        width: 416
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87359593c15d7ee42bd0b3d0b7ebfdcf
+      internalID: -5258087400562214640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1280
+        width: 219
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddb86203ac26764190e87f7c0a55a17
+      internalID: 2250687283283899516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_15
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1282
+        width: 204
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d355315d0a94749a8990fce7b1298c
+      internalID: 8608662240493644076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_16
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1487
+        width: 190
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54702938ba4f77e4ba1c26977603caa4
+      internalID: -2808458495565687064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_17
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1487
+        width: 190
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99498cb1bbb1ff341866dd96d9050dfc
+      internalID: -3382333612423492883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_18
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1480
+        width: 180
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b331224b9f74e478e0187bc4ace587
+      internalID: -34440249018038882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_19
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1488
+        width: 190
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf5819279fbf614e95b0764f6a99e3f
+      internalID: -7676234883483861749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_20
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1498
+        width: 196
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320a97eca9cd9e41a3728297f7fdc54
+      internalID: -8684029647162981176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_21
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1525
+        width: 215
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e6523115130b4d85cfe059b4b3266
+      internalID: -5032478555162142758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 215
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329fe039e20295e41b6e36d06e3c9b7c
+      internalID: 2509475306144723766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1282
+        width: 201
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ee76c5aafbb9e47891334176fb37b4
+      internalID: -3757914667929062073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_24
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1244
+        width: 215
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8b6757347251f4baffef30cc29d541
+      internalID: 8309882354638721337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_25
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1259
+        width: 215
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00800d4f14a22a41b22ded803c18138
+      internalID: -7667136452318654167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 201
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce9b2854518fb4da679ac60bb96758
+      internalID: -1247549482755787862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1008
+        width: 218
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8081f6e642c7c4c448b7dc9b27b9f0c0
+      internalID: -5819451545037184686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_28
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1047
+        width: 203
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba56e2047190884592a73466f92ebf1
+      internalID: 6355899215881935538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_29
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 988
+        width: 220
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdef5338f79db74a940a61dde24dd77
+      internalID: -4699734094268723960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_11
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1283
+        width: 204
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfab05c973c1874e84cbde14cadbce8
+      internalID: -8967672780463984993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_30
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1243
+        width: 215
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4caa6b691af349b651b9dbc14551a
+      internalID: -467879765341026250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_31
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1481
+        width: 182
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe4f039f149634ab83d973fd0a64c0
+      internalID: -579778789107931854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_32
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1047
+        width: 201
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601ee64e79fd4ac49becae6b1183cdf4
+      internalID: 6018019460368007814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_33
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1042
+        width: 203
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783abb26af579a4cab5e408632c9247
+      internalID: -8269480554852020623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_34
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 987
+        width: 218
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85676145d17454418ee2857f0c25420
+      internalID: -9152302928332165747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_35
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1760
+        width: 241
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa06c2eba633a8408bf6d11cba1aed8
+      internalID: -1773341224481588530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1246
+        width: 219
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4d82300e5fd484c9d287cc95c6231d
+      internalID: 6748996502225902696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth 2_37
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1003
+        width: 214
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af00168b16cac84db9a0260ba56c915
+      internalID: 8288821619589280210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barroth idle2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1477
+        width: 214
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702fd48a6f9ebfe45bf3152a4ad3dc42
+      internalID: -3018832437164593638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

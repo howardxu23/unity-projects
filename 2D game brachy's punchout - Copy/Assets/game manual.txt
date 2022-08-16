@@ -1,0 +1,18 @@
+CONTROLS:
+low left punch=A
+low right punch=D
+high right punch=E
+high left punch=Q
+evade left=Z
+evade right=C
+block=W
+star punch=S
+
+GAME MECHANICS:
+you have to wait for an opening to deal damage, by waiting for the opponentto attempt to punch, evade successfully, then return with a barrage of counterattacks when the opponent misses. high punches have more damage, but have less "stun" potential, while low punches have more "stun" potential, but is unable to perform a K.O.
+
+There is also a stamina meter, evading and attacking both consume stamina, while you can still evade at 0 stamina, you cannot attack while you have no stamina. A sucessfull evasion will regain some stamina. blocking does not consume stamina, but some health will still be lost, and it cannot be used either when at 0 stamina.
+
+The player also have access to a powerful move called the star punch, however to unlock access to it, the player needs to land 3 sets of at least 3 blows on the opponent, which will alllow the player to get 1 use of the star punch. If used against a non-miss state, it will only deal 1/4 of the full damage, so it is recommended to use the move as the finisher when the opponet gets to a low enough health, then wait for a opening as per usual, then unleash it.
+
+credits to NCHproductions for the assests

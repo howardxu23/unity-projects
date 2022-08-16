@@ -1,0 +1,545 @@
+newmtl _default_
+Kd 0.502 0.502 0.502 
+Ks 0.067 0.067 0.067 
+Ns 30
+
+newmtl AM029_Ammunition_Box_728
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am029_ammunition_box_a.jpg
+map_Ks textures/am029_ammunition_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM018_Compass_Binnacle_818
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am018_compass_binnacle_a.jpg
+map_Ks textures/am018_compass_binnacle_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM063_Wind_Direction_841
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am063_wind_direction_a.jpg
+map_Ks textures/am063_wind_direction_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM150_Telegraph_Engine_846
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am150_telegraph_engine_a.jpg
+map_Ks textures/am150_telegraph_engine_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM115_RDF_853
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am115_rdf_a.jpg
+map_Ks textures/am115_rdf_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM045_Running_Lights_F_859
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am045_running_lights_f_a.jpg
+map_Ks textures/am045_running_lights_f_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM044_Boat_Winch_897
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am044_boat_winch_a.jpg
+map_Ks textures/am044_boat_winch_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM002_Propeller_4b_916
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm002_propeller_4b_a.jpg
+map_Ks textures/cm002_propeller_4b_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AC002_Catapult_2_skinned_91
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ac002_catapult_2_a.jpg
+map_Ks textures/ac002_catapult_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AGA056_40mm_Bofors_367
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/aga056_40mm_bofors_a.jpg
+map_Ks textures/aga056_40mm_bofors_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AGA056_40mm_Bofors_wire_368
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/aga056_40mm_bofors_a.jpg
+map_Ks textures/aga056_40mm_bofors_mg.jpg
+
+newmtl AGA003_20mm_Oerlikon_MK4_399
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/aga003_20mm_oerlikon_mk4_a.jpg
+map_Ks textures/aga003_20mm_oerlikon_mk4_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AGS007_5in25_Mk19_Mod6_skinned_732
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ags007_5in25_mk19_mod6_a.jpg
+map_Ks textures/ags007_5in25_mk19_mod6_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AD003_Director_Mk51_811
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ad003_director_mk51_a.jpg
+map_Ks textures/ad003_director_mk51_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl ARS004_Radar_SG_skinned_852
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ars004_radar_sg_a.jpg
+map_Ks textures/ars004_radar_sg_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl ARS006_Radar_SK_skinned_860
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ars006_radar_sk_a.jpg
+map_Ks textures/ars006_radar_sk_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl C004_Grid_1_alpha_skinned_861
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/c004_grid_1_alpha_a.png
+
+newmtl AM003_Fairlead_1_911
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am003_fairlead_1_a.jpg
+map_Ks textures/am003_fairlead_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM024_Hatch_2_925
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am024_hatch_2_a.jpg
+map_Ks textures/am024_hatch_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM019_Ventilators_1_928
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am019_ventilators_1_a.jpg
+map_Ks textures/am019_ventilators_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM549_Life_Buoy_931
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am549_life_buoy_a.jpg
+map_Ks textures/am549_life_buoy_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM006_Anchor_2_942
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm006_anchor_2_a.jpg
+map_Ks textures/cm006_anchor_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM088_Capstan_950
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am088_capstan_a.jpg
+map_Ks textures/am088_capstan_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl ASC014_New_Orlean_1944_59
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/asc014_new_orlean_1944_a.jpg
+map_Ks textures/asc014_new_orlean_1944_mg.jpg
+map_Ao textures/asc014_new_orlean_1944_ao.jpg
+
+newmtl C005_Grid_2_alpha_59
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/c005_grid_2_alpha_a.jpg
+
+newmtl ASC014_New_Orlean_1944_wire_60
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/asc014_new_orlean_1944_a.jpg
+map_Ks textures/asc014_new_orlean_1944_mg.jpg
+
+newmtl AM129_Turtles_box_203
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am129_turtles_box_a.jpg
+map_Ks textures/am129_turtles_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM010_Fire_Hose_Reel_245
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm010_fire_hose_reel_a.jpg
+map_Ks textures/cm010_fire_hose_reel_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM433_MC_Box_261
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am433_mc_box_a.jpg
+map_Ks textures/am433_mc_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM029_Emergency_Box_265
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm029_emergency_box_a.jpg
+map_Ks textures/cm029_emergency_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM490_Trash_can_347
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am490_trash_can_a.jpg
+map_Ks textures/am490_trash_can_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM072_Ships_bell_356
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am072_ships_bell_a.jpg
+map_Ks textures/am072_ships_bell_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM037_Searchlight_900mm_361
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am037_searchlight_900mm_a.jpg
+map_Ks textures/am037_searchlight_900mm_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM224_Ammunition_Box_694
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am224_ammunition_box_a.jpg
+map_Ks textures/am224_ammunition_box_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM045_Running_Lights_F_wire_697
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am045_running_lights_f_a.jpg
+map_Ks textures/am045_running_lights_f_mg.jpg
+
+newmtl AM463_Binoculars_78
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am463_binoculars_a.jpg
+map_Ks textures/am463_binoculars_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM006_Reels_1_81
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am006_reels_1_a.jpg
+map_Ks textures/am006_reels_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM509_Voice_tube_2_83
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am509_voice_tube_2_a.jpg
+map_Ks textures/am509_voice_tube_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM077_Paravane_119
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am077_paravane_a.jpg
+map_Ks textures/am077_paravane_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM052_Fender_391
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm052_fender_a.jpg
+map_Ks textures/cm052_fender_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM025_Pelorus_Mk7_415
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am025_pelorus_mk7_a.jpg
+map_Ks textures/am025_pelorus_mk7_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM080_Whips_Antenna_533
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am080_whips_antenna_a.jpg
+map_Ks textures/am080_whips_antenna_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM080_Whips_Antenna_wire_534
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am080_whips_antenna_a.jpg
+map_Ks textures/am080_whips_antenna_mg.jpg
+
+newmtl CM024_Stairway_Big_L_769
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm024_stairway_big_l_a.jpg
+map_Ks textures/cm024_stairway_big_l_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM038_Searchlight_600mm_780
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am038_searchlight_600mm_a.jpg
+map_Ks textures/am038_searchlight_600mm_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM292_Davit_802
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am292_davit_a.jpg
+map_Ks textures/am292_davit_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM133_Boat_7_824
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am133_boat_7_a.jpg
+map_Ks textures/am133_boat_7_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM350_Filling_connection_880
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am350_filling_connection_a.jpg
+map_Ks textures/am350_filling_connection_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM004_Barbette_Out_116
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm004_barbette_out_a.jpg
+map_Ks textures/cm004_barbette_out_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM117_Girder_Crane_AM118_Must_Crane_148
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am117_girder_crane_am118_must_crane_a.jpg
+map_Ks textures/am117_girder_crane_am118_must_crane_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM154_Switch_Panel_1_149
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am154_switch_panel_1_a.jpg
+map_Ks textures/am154_switch_panel_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM028_Swab_Rack_410
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm028_swab_rack_a.jpg
+map_Ks textures/cm028_swab_rack_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM061_Sky_Lookout_1_453
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am061_sky_lookout_1_a.jpg
+map_Ks textures/am061_sky_lookout_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM056_Ships_bell_553
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm056_ships_bell_a.jpg
+map_Ks textures/cm056_ships_bell_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM535_Elec_Panel_743
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am535_elec_panel_a.jpg
+map_Ks textures/am535_elec_panel_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM016_Davit_1_103
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am016_davit_1_a.jpg
+map_Ks textures/am016_davit_1_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM016_Boat_Stowage_2_231
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm016_boat_stowage_2_a.jpg
+map_Ks textures/cm016_boat_stowage_2_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl CM082_Rope_584
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/cm082_rope_a.jpg
+map_Ks textures/cm082_rope_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM113_Aircraft_Cran_3_279
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am113_aircraft_cran_3_a.jpg
+map_Ks textures/am113_aircraft_cran_3_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM113_Aircraft_Cran_3_wire_280
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am113_aircraft_cran_3_a.jpg
+map_Ks textures/am113_aircraft_cran_3_mg.jpg
+
+newmtl AM091_motor_boats_307
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am091_motor_boats_a.jpg
+map_Ks textures/am091_motor_boats_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AM014_Depth_Charge_Roller_Track_726
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/am014_depth_charge_roller_track_a.jpg
+map_Ks textures/am014_depth_charge_roller_track_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AGM006_8in55_CA32_skinned_263
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/agm006_8in55_ca32_a.jpg
+map_Ks textures/agm006_8in55_ca32_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AD008_Director_Mk31_316
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ad008_director_mk31_a.jpg
+map_Ks textures/ad008_director_mk31_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl AD009_Director_Mk28_skinned_346
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/ad009_director_mk28_a.jpg
+map_Ks textures/ad009_director_mk28_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl ARF010_Radar_Mk28_404
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/arf010_radar_mk28_a.jpg
+map_Ks textures/arf010_radar_mk28_mg.jpg
+map_Ao textures/default_ao.jpg
+
+newmtl C004_Grid_1_alpha_404
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/c004_grid_1_alpha_a.jpg
+
+newmtl ARF010_Radar_Mk28_wire_406
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/arf010_radar_mk28_a.jpg
+map_Ks textures/arf010_radar_mk28_mg.jpg
+
+newmtl ARF012_Radar_SM_skinned_433
+Kd 0.502 0.502 0.502 
+Ks 0.251 0.251 0.251 
+Ns 48
+map_Kd textures/arf012_radar_sm_a.jpg
+map_Ks textures/arf012_radar_sm_mg.jpg
+map_Ao textures/default_ao.jpg
+
