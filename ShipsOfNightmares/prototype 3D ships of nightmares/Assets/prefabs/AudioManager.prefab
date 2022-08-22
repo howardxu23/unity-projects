@@ -1,0 +1,506 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1110700943824879100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4481928575865240123}
+  - component: {fileID: 9092530699378625243}
+  - component: {fileID: 813872196539697219}
+  m_Layer: 5
+  m_Name: SubtitleText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4481928575865240123
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110700943824879100}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 768684582177669553}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: -100}
+  m_SizeDelta: {x: 600, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &9092530699378625243
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110700943824879100}
+  m_CullTransparentMesh: 1
+--- !u!114 &813872196539697219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1110700943824879100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.8018868, g: 0.8018868, b: 0.8018868, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 7
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: Subtitle
+--- !u!1 &2244090060699545990
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 768684582177669553}
+  - component: {fileID: 3673371732379107576}
+  - component: {fileID: 704952299593789024}
+  - component: {fileID: 5295089861988668731}
+  m_Layer: 5
+  m_Name: Subtitle Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &768684582177669553
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2244090060699545990}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 4481928575865240123}
+  m_Father: {fileID: 5870203462428920377}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!223 &3673371732379107576
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2244090060699545990}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &704952299593789024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2244090060699545990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!114 &5295089861988668731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2244090060699545990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!1 &5870203462428920379
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5870203462428920377}
+  - component: {fileID: 5870203462428920376}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: AudioManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5870203462428920377
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5870203462428920379}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 768684582177669553}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5870203462428920376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5870203462428920379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f5221fee8399d34dbeb6aa86fc459c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  subtitles: 0
+  sounds:
+  - name: BarrelBreak
+    clip: {fileID: 8300000, guid: b82f2edf4c4aae449a79d8ac61e9fc21, type: 3}
+    volume: 0.5
+    pitch: 0.9
+    varyPitch: 1
+    pitchMax: 1.1
+    loop: 0
+    subtitle: Barrel broke
+    source: {fileID: 0}
+  - name: BattleAmbience
+    clip: {fileID: 8300000, guid: 3d9570cd14d0bef43bca9a5e4a863d97, type: 3}
+    volume: 0.5
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Battle ambience
+    source: {fileID: 0}
+  - name: BattleCry1
+    clip: {fileID: 8300000, guid: 4985f87ac6e971e4fa8984f99395afbf, type: 3}
+    volume: 0.5
+    pitch: 0.9
+    varyPitch: 0
+    pitchMax: 0.9
+    loop: 0
+    subtitle: Battle cry
+    source: {fileID: 0}
+  - name: BattleCry2
+    clip: {fileID: 8300000, guid: 4985f87ac6e971e4fa8984f99395afbf, type: 3}
+    volume: 0.5
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Battle cry
+    source: {fileID: 0}
+  - name: BattleCry3
+    clip: {fileID: 8300000, guid: 4985f87ac6e971e4fa8984f99395afbf, type: 3}
+    volume: 0.5
+    pitch: 1.1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Battle cry
+    source: {fileID: 0}
+  - name: BurnDamage
+    clip: {fileID: 8300000, guid: d0185c9ccbe218c498b4a7c452d29b37, type: 3}
+    volume: 0.4
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 0
+    subtitle: Burn damage
+    source: {fileID: 0}
+  - name: ButtonCork
+    clip: {fileID: 8300000, guid: 7f356c1ffb64897459cf702291e95980, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: null
+    source: {fileID: 0}
+  - name: DeathRattle1
+    clip: {fileID: 8300000, guid: a516a3b4d83a0b54084e816068382ed1, type: 3}
+    volume: 0.5
+    pitch: 0.9
+    varyPitch: 0
+    pitchMax: 0.9
+    loop: 0
+    subtitle: Death rattle
+    source: {fileID: 0}
+  - name: DeathRattle2
+    clip: {fileID: 8300000, guid: a516a3b4d83a0b54084e816068382ed1, type: 3}
+    volume: 0.5
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0.1
+    loop: 0
+    subtitle: Death rattle
+    source: {fileID: 0}
+  - name: DeathRattle3
+    clip: {fileID: 8300000, guid: a516a3b4d83a0b54084e816068382ed1, type: 3}
+    volume: 0.5
+    pitch: 1.1
+    varyPitch: 0
+    pitchMax: 0.1
+    loop: 0
+    subtitle: Death rattle
+    source: {fileID: 0}
+  - name: Footstep
+    clip: {fileID: 8300000, guid: da2891bf1f36c3247b8ae5e2aed9840e, type: 3}
+    volume: 0.5
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 1
+    subtitle: null
+    source: {fileID: 0}
+  - name: Gunshot
+    clip: {fileID: 8300000, guid: 43acfb1d940f9824eb2eb9dfaf2eb616, type: 3}
+    volume: 1
+    pitch: 0.9
+    varyPitch: 1
+    pitchMax: 1.1
+    loop: 0
+    subtitle: Gunshot
+    source: {fileID: 0}
+  - name: MainMenu
+    clip: {fileID: 8300000, guid: de6ab0b585cd26d4f9917c013626fa69, type: 3}
+    volume: 0.5
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Playing "Try1"
+    source: {fileID: 0}
+  - name: PirateDeath1
+    clip: {fileID: 8300000, guid: ebc6fef11d2a9b447a43a7e2ddca73ab, type: 3}
+    volume: 0.5
+    pitch: 0.9
+    varyPitch: 0
+    pitchMax: 0.1
+    loop: 0
+    subtitle: Pirate death
+    source: {fileID: 0}
+  - name: PirateDeath2
+    clip: {fileID: 8300000, guid: ebc6fef11d2a9b447a43a7e2ddca73ab, type: 3}
+    volume: 0.5
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0.1
+    loop: 0
+    subtitle: Pirate death
+    source: {fileID: 0}
+  - name: PirateDeath3
+    clip: {fileID: 8300000, guid: ebc6fef11d2a9b447a43a7e2ddca73ab, type: 3}
+    volume: 0.5
+    pitch: 1.1
+    varyPitch: 0
+    pitchMax: 0.1
+    loop: 0
+    subtitle: Pirate death
+    source: {fileID: 0}
+  - name: Rain
+    clip: {fileID: 8300000, guid: 002983212f8e1bc4e8998c00ca3d557f, type: 3}
+    volume: 0.15
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Rain sounds
+    source: {fileID: 0}
+  - name: ShipTheme
+    clip: {fileID: 8300000, guid: fb267231da5ff954ea298cbf0ed8ed6c, type: 3}
+    volume: 0.2
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Playing "PirateSong"
+    source: {fileID: 0}
+  - name: SkeletonTalk
+    clip: {fileID: 8300000, guid: 07efffd9f4548344f84fc39d862a2e53, type: 3}
+    volume: 1
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 0
+    subtitle: 
+    source: {fileID: 0}
+  - name: Song
+    clip: {fileID: 8300000, guid: 45051b105a4bb1641a9fe61074761890, type: 3}
+    volume: 0.4
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Playing "Pirate song OG"
+    source: {fileID: 0}
+  - name: SwordClang
+    clip: {fileID: 8300000, guid: 3a86c73f3e0c3244a887e30f7d876f73, type: 3}
+    volume: 0.5
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 0
+    subtitle: Sword clang
+    source: {fileID: 0}
+  - name: SwordScrape
+    clip: {fileID: 8300000, guid: 4ca966321dc20d249bdfb0e6f5132906, type: 3}
+    volume: 0.5
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 0
+    subtitle: Sword scrape
+    source: {fileID: 0}
+  - name: SwordSwipe
+    clip: {fileID: 8300000, guid: f9c198b5903e00d49aa0961ca81188ef, type: 3}
+    volume: 0.5
+    pitch: 0.95
+    varyPitch: 1
+    pitchMax: 1.05
+    loop: 0
+    subtitle: Sword swipe
+    source: {fileID: 0}
+  - name: SwordThud
+    clip: {fileID: 8300000, guid: ad9548a8d13c73f46919e5a3ce13853b, type: 3}
+    volume: 0.5
+    pitch: 0.95
+    varyPitch: 0
+    pitchMax: 1.05
+    loop: 0
+    subtitle: Sword thud
+    source: {fileID: 0}
+  - name: Thunder1
+    clip: {fileID: 8300000, guid: 3b85ebaa041740040a1c72ee19108070, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Thunder2
+    clip: {fileID: 8300000, guid: 7ff9d57916c0d62449d45d4678c7fd32, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Thunder3
+    clip: {fileID: 8300000, guid: b4c5df6068a699d47b1467d9b8e03f64, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Thunder4
+    clip: {fileID: 8300000, guid: 086231c082f172641bd5954c939c083f, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Thunder5
+    clip: {fileID: 8300000, guid: c696a19d1a040c6458f946d07d1817fb, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Thunder6
+    clip: {fileID: 8300000, guid: 77a7dbb1da8a5a144927190d511c05b8, type: 3}
+    volume: 1
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 0
+    subtitle: Thunder
+    source: {fileID: 0}
+  - name: Wind
+    clip: {fileID: 8300000, guid: dc0417d51f3a05a4fb29a4c20bc6cccd, type: 3}
+    volume: 0.3
+    pitch: 1
+    varyPitch: 0
+    pitchMax: 0
+    loop: 1
+    subtitle: Wind
+    source: {fileID: 0}

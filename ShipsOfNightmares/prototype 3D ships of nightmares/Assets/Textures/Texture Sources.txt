@@ -1,0 +1,2 @@
+Texture Pallete: https://lospec.com/palette-list/apollo
+Skybox: https://opengameart.org/content/cloudy-skyboxes

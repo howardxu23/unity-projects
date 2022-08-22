@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - enemy hitbox
+  - player hitbox
+  - Ground
+  - colision boxes
+  - player weapon hitbox
+  - enemy weapon hitbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: rear background
+    uniqueID: 1777512037
+    locked: 0
+  - name: fore background
+    uniqueID: 1156825853
+    locked: 0
+  - name: forground
+    uniqueID: 3754876001
+    locked: 0
